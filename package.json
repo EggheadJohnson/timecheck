@@ -1,0 +1,15 @@
+{
+  "name": "timecheck",
+  "version": "1.0.0",
+  "description": "timecheck is a quick way to print how much time has passed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "timer"
+  ],
+  "author": "Paul Johnson",
+  "license": "ISC"
+}
